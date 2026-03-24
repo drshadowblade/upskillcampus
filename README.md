@@ -93,6 +93,26 @@ To predict the percentage of silica (% Silica Concentrate) in a mining flotation
 
 ---
 
+## 📥 Dataset
+
+Due to GitHub file size limitations, datasets are not included in this repository.
+
+You can download the datasets from the following links:
+
+- Turbofan Engine Dataset: https://drive.google.com/file/d/1dgWM0KKOnoN9kVObbA-GahsgXPJBCT4c/view?usp=sharing
+- Mining Process Dataset: https://drive.google.com/file/d/1N80d8eTDAf1JMQXGQbHDAUaMGRyA8QG3/view?usp=sharing
+
+After downloading, place the datasets in the following folder structure:
+
+
+datasets/
+├── turbofan/
+│ ├── train_FD001.txt
+│ ├── test_FD001.txt
+│
+└── mining_quality/
+└── mining.csv
+
 ## ⚙️ Approach
 
 - Data cleaning and preprocessing  
